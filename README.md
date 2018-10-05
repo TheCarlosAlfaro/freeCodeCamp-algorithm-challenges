@@ -3,7 +3,7 @@ In this streaming series, [Carlos Alfaro](http://carlosalfaro.me) walks through 
 
 ## Viewing Tips
 
-1. YouTube automatically plays videos at 480p, but it is recommended to play these videos at 720p High Definition and full screen.
+1. It is recommended to play these videos at High Definition and full screen.
 
 2. These videos will be very practical because they will walk through the algorithmic challenges at Free Code Camp. As such, they will contain solutions to the challenges. If you want to solve the solution yourself, don't watch this video! When you have finally solved the challenge OR if you get stuck, come back and watch the video.
 
